@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VB6BWUn2kD9wFexP/wETLbPO6aSlm0h4WH4w2G2qnC6swyDxvVjGcD11JdHqkTrHxw1BNkbtKSScTKpp/OcQtg==",
+  "success": true,
+  "projectFilePath": "D:\\Git\\ForTestAnyThing\\Libraries\\LibForUnity\\ObjectEdges.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Den\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Den\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\Den\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
